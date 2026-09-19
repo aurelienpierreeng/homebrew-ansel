@@ -2,13 +2,13 @@
 cask "ansel-nightly" do
   on_arm do
     version "0.0.0+5038.gf484018567"
-    sha256 "4b6aee479c0d5e9e3aa26f5f1382a32c01176c92ef4ddc6aee11c795b5905230"
+    sha256 "148d498fe81e822bf4001382943829dd7600712eb573fac8f7bf8bd8543d99b6"
     url "https://github.com/aurelienpierreeng/ansel/releases/download/nightly-2026-09/Ansel-0.0.0%2B5038.gf484018567-arm64.dmg",
         verified: "github.com/aurelienpierreeng/ansel/"
   end
   on_intel do
     version "0.0.0+5038.gf484018567"
-    sha256 "b54a3752f5130a2199dbe25819c22dcba7fe4a6f518c85436065290767e386ef"
+    sha256 "779fcbf3daeb6e411d146fc1f33be63b51a50882504f5647e36d76abe2ac1085"
     url "https://github.com/aurelienpierreeng/ansel/releases/download/nightly-2026-09/Ansel-0.0.0%2B5038.gf484018567-i386.dmg",
         verified: "github.com/aurelienpierreeng/ansel/"
   end
