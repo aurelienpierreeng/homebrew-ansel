@@ -7,9 +7,9 @@ cask "ansel-nightly" do
         verified: "github.com/aurelienpierreeng/ansel/"
   end
   on_intel do
-    version "0.0.0+5261.g0baeb88ed8"
-    sha256 "aca46f3b934793555d94f1a89ec61e33c5c6d86f28de60565cb002e575e7de32"
-    url "https://github.com/aurelienpierreeng/ansel/releases/download/nightly-2026-10/Ansel-0.0.0%2B5261.g0baeb88ed8-i386.dmg",
+    version "0.0.0+5262.g96a9bd1299"
+    sha256 "67db1450bff5fc9fa69b90e18e68d84d061cbaf77a72818fc275baeac4481f36"
+    url "https://github.com/aurelienpierreeng/ansel/releases/download/nightly-2026-10/Ansel-0.0.0%2B5262.g96a9bd1299-i386.dmg",
         verified: "github.com/aurelienpierreeng/ansel/"
   end
 
